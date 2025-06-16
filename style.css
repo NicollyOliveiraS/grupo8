@@ -168,8 +168,8 @@ main{
 
 .banner{
     display: flex;
-    align-items: center;
-    margin-left: 150px;
+   justify-content: center;
+    
 }
 .tipo{
     width: 100%;
